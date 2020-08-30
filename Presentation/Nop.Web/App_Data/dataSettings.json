@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=JIMMY\\SQLEXPRESS;Initial Catalog=LWD;Integrated Security=True;Persist Security Info=False",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
