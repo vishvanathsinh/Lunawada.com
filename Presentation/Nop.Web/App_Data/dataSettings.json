@@ -1,5 +1,5 @@
 ﻿{
-  "DataConnectionString": "Data Source=JIMMY\\SQLEXPRESS;Initial Catalog=LWD;Integrated Security=True;Persist Security Info=False",
+  "DataConnectionString": "Data Source=103.102.234.246;Initial Catalog=LWD_new;Integrated Security=False;Persist Security Info=False;User ID=admin_vishvanath;Password=Cybage@#40064935",
   "DataProvider": "sqlserver",
   "RawDataSettings": {}
 }
